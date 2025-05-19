@@ -1,0 +1,8 @@
+streamlit
+langchain
+pymongo
+fastapi
+uvicorn
+python-dotenv
+requests
+PyGithub
